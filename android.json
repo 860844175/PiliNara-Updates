@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "channel": "northAmerica",
+  "packageId": "com.example.pilinara.dev",
+  "versionName": "2.1.5-na-failover",
+  "buildNumber": 4,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-failover-4/PiliNara.apk",
+  "sha256": "59fcd37e28ee52a3c8ca3e4053feef8149422c90a6ebf7ab01a541507047fb1b",
+  "sizeBytes": 71083947,
+  "releaseNotes": [
+    "播放中自动测速并切换更快的 CDN，尽量减少缓冲。"
+  ]
+}
