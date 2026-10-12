@@ -3,13 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-progress",
-  "buildNumber": 5,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-progress-5/PiliNara.apk",
-  "sha256": "536d1ae583180ed1b8b8380cb393adb6aae7358ac3505606bb6f6a551c49d3ce",
-  "sizeBytes": 71083299,
+  "versionName": "2.1.5-na-speed",
+  "buildNumber": 6,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-speed-6/PiliNara.apk",
+  "sha256": "379ab30cca7acb7e9851eb481184d71807ab284fb13513952ba797e66ae80477",
+  "sizeBytes": 71109871,
   "releaseNotes": [
-    "播放器持续显示缓存终点和按当前倍速换算的剩余可播放秒数。",
-    "个人测试版增加自动更新提示，播放页不弹窗，手动检查可立即获取结果。"
+    "显示 Android 的 App 实际下载速度（MB/s），缓存充足时注明状态。",
+    "前向缓存升级为 128 MiB，默认优先最高可用画质，半屏跟随全屏。",
+    "根据缓存补充速度提前发现慢 CDN，备用线路独立复测确认后再切换，保留当前画质。"
   ]
 }
