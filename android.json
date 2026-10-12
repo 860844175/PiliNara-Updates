@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-relay",
-  "buildNumber": 7,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-relay-7/PiliNara.apk",
-  "sha256": "d35bb32bc80fcbd709fe73251d24a84a254caa1ab69f0aa9c352728caeb03387",
-  "sizeBytes": 71179907,
+  "versionName": "2.1.5-na-hevc",
+  "buildNumber": 8,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-hevc-8/PiliNara.apk",
+  "sha256": "71414b5a791d0fbf8cc959e33291f3f0fb853fbeb0d916d115b9b6dac043d368",
+  "sizeBytes": 71179943,
   "releaseNotes": [
-    "修复播放“没进度、速度 0”：网络超时由 5 秒改为 8 秒并断点重连，中途中断从原位置恢复，不再误跳下一集。",
-    "分块并行下载（仿网页播放器）：3 条连接同时下载，卡住的块自动换节点续传；可在视频设置中关闭。",
-    "节点选择仿 B站 CDN 加速插件：默认 hwb，缓冲充足时后台测速大陆镜像，只在真卡住时换线。"
+    "自动选用省流量编码：手机能硬解时优先 HEVC，同画质下载量约减半，缓冲更快、更省流量。",
+    "经分块中转播放时省去起播前的节点验证，起播更快。",
+    "缓冲目标由 60 秒提高到 120 秒（手动设置保留）；不会自动降低画质。"
   ]
 }
