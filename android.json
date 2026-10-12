@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-speed",
-  "buildNumber": 6,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-speed-6/PiliNara.apk",
-  "sha256": "379ab30cca7acb7e9851eb481184d71807ab284fb13513952ba797e66ae80477",
-  "sizeBytes": 71109871,
+  "versionName": "2.1.5-na-relay",
+  "buildNumber": 7,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-relay-7/PiliNara.apk",
+  "sha256": "d35bb32bc80fcbd709fe73251d24a84a254caa1ab69f0aa9c352728caeb03387",
+  "sizeBytes": 71179907,
   "releaseNotes": [
-    "显示 Android 的 App 实际下载速度（MB/s），缓存充足时注明状态。",
-    "前向缓存升级为 128 MiB，默认优先最高可用画质，半屏跟随全屏。",
-    "根据缓存补充速度提前发现慢 CDN，备用线路独立复测确认后再切换，保留当前画质。"
+    "修复播放“没进度、速度 0”：网络超时由 5 秒改为 8 秒并断点重连，中途中断从原位置恢复，不再误跳下一集。",
+    "分块并行下载（仿网页播放器）：3 条连接同时下载，卡住的块自动换节点续传；可在视频设置中关闭。",
+    "节点选择仿 B站 CDN 加速插件：默认 hwb，缓冲充足时后台测速大陆镜像，只在真卡住时换线。"
   ]
 }
