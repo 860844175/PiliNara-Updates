@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-hevc",
-  "buildNumber": 8,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-hevc-8/PiliNara.apk",
-  "sha256": "71414b5a791d0fbf8cc959e33291f3f0fb853fbeb0d916d115b9b6dac043d368",
-  "sizeBytes": 71179943,
+  "versionName": "2.1.5-na-ui",
+  "buildNumber": 9,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-ui-9/PiliNara.apk",
+  "sha256": "c76a51aa9999380b8d5ce61b6212486fd0c6f045dd4ef614592d9fb9bf880bd1",
+  "sizeBytes": 72671284,
   "releaseNotes": [
-    "自动选用省流量编码：手机能硬解时优先 HEVC，同画质下载量约减半，缓冲更快、更省流量。",
-    "经分块中转播放时省去起播前的节点验证，起播更快。",
-    "缓冲目标由 60 秒提高到 120 秒（手动设置保留）；不会自动降低画质。"
+    "全新播放界面：B站布局 + 白色玻璃质感，提示统一为顶部胶囊，“更多”里可直接调倍速、画中画、听音频。可在“播放设置 → 新版播放界面”关闭。",
+    "修复 B站响应慢时应用无响应、一直转圈的问题。",
+    "所有节点都慢时不再放弃，中转打不开时自动改用直连重试；不会自动降低画质。"
   ]
 }
