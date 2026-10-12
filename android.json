@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-update",
-  "buildNumber": 10,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-update-10/PiliNara.apk",
-  "sha256": "7b3248f1bb2617996c691da15e6d45fd27ba9e626661f390b637be2a7b67ea17",
-  "sizeBytes": 72718380,
+  "versionName": "2.1.5-na-blackbox",
+  "buildNumber": 11,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-blackbox-11/PiliNara.apk",
+  "sha256": "7287775018f006aee7d06cfeffe8f7c35b396408555a6803503b81445a8de634",
+  "sizeBytes": 72799744,
   "releaseNotes": [
-    "打开 APP 就提醒更新，不用再去设置里开关「检查更新」。",
-    "APP 内直接更新：在弹窗里下载、校验后安装，不再跳浏览器。第一次需按提示填一次只读 GitHub 令牌，并允许安装应用。",
-    "这次从 9 升到 10 仍需用浏览器下载；以后的更新可以在 APP 内完成。"
+    "播放黑匣子：记录每次起播各步耗时、卡顿和错误；卡了就到「关于 → 播放诊断」复制发给开发者。",
+    "首页秒开：打开 APP 先显示上次的推荐流，后台再换新的。",
+    "起播竞速：首块数据慢时同时向第二个节点请求，先回者胜。"
   ]
 }
