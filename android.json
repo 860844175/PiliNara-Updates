@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-checks",
-  "buildNumber": 12,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-checks-12/PiliNara.apk",
-  "sha256": "c320648f086a3999b1ad3e2c206fe65b50f9b9f5fcb53dbac409685058b39c03",
-  "sizeBytes": 72827908,
+  "versionName": "2.1.5-na-chrome",
+  "buildNumber": 13,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-chrome-13/PiliNara.apk",
+  "sha256": "64a3afb3941312618f0fabd682ee86d19f16be526890084f48d535baa64cf0b1",
+  "sizeBytes": 72915284,
   "releaseNotes": [
-    "修复打开 APP 不提醒更新：改从 GitHub 接口读取版本信息，发版后约一分钟内就会提醒。",
-    "每次更新检查的结果记在「关于 → 播放诊断」的「更新检查」里。",
-    "播放和界面没有改动。"
+    "新版界面：首页顶栏和底栏改为毛玻璃，往下滑时底栏缩成圆形按钮；长按卡片弹出玻璃菜单，另加「保存封面」。",
+    "点封面放大成播放器；在竖屏播放器中间往下拉，松手进入小窗。可在「设置 → 外观设置」关闭。",
+    "修复关闭播放器后偶发的「应用无响应」。播放和提速没有改动。"
   ]
 }
