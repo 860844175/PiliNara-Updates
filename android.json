@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-chrome",
-  "buildNumber": 13,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-chrome-13/PiliNara.apk",
-  "sha256": "64a3afb3941312618f0fabd682ee86d19f16be526890084f48d535baa64cf0b1",
-  "sizeBytes": 72915284,
+  "versionName": "2.1.5-na-video",
+  "buildNumber": 14,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-video-14/PiliNara.apk",
+  "sha256": "7aacd1af9b00666ae9e905c58b15e5fb1c11d3e84d25c862803cda036122a441",
+  "sizeBytes": 72996836,
   "releaseNotes": [
-    "新版界面：首页顶栏和底栏改为毛玻璃，往下滑时底栏缩成圆形按钮；长按卡片弹出玻璃菜单，另加「保存封面」。",
-    "点封面放大成播放器；在竖屏播放器中间往下拉，松手进入小窗。可在「设置 → 外观设置」关闭。",
-    "修复关闭播放器后偶发的「应用无响应」。播放和提速没有改动。"
+    "推荐页最上面加上 B站首页轮播，约 4 秒翻一张，可以左右滑。",
+    "点开视频后的页面换成新样式：关注按钮、操作按钮、相关推荐和评论；首页卡片更紧凑。",
+    "可在「设置 → 外观设置 → 新版界面」关闭。播放和提速没有改动。"
   ]
 }
