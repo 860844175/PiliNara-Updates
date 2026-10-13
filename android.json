@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-expand",
-  "buildNumber": 16,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-expand-16/PiliNara.apk",
-  "sha256": "0424b5877080d13183e335a0003e3db5f134b648e5e6520782e4ed08f49c5720",
-  "sizeBytes": 73025540,
+  "versionName": "2.1.5-na-icons",
+  "buildNumber": 17,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-icons-17/PiliNara.apk",
+  "sha256": "380986a1d1fb0aa38eb73b9e641566b60b0fd14d6a6cc3b419397cf0775863dd",
+  "sizeBytes": 73069856,
   "releaseNotes": [
-    "点开视频时的封面放大更流畅：封面等页面准备好再放大，过程中不再卡顿。",
-    "只剩封面在动：视频页跟着封面淡出来，不再从右边滑入；结尾不再闪加载图标。",
-    "放大途中按返回或下拉进小窗，封面原地淡出。播放和提速没有改动。"
+    "缓冲提示换成小玻璃胶囊：匀速细圈 + 「缓冲中」和网速，画面再亮再杂也看得清。",
+    "播放页图标统一成一套：圆角的播放暂停、硬币形状的投币、转发箭头的分享，点亮后填成粉色。",
+    "全屏电量改成小电池；未播放时的返回、主页对齐居中。播放和提速没有改动。"
   ]
 }
