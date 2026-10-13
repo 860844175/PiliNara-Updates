@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-video",
-  "buildNumber": 14,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-video-14/PiliNara.apk",
-  "sha256": "7aacd1af9b00666ae9e905c58b15e5fb1c11d3e84d25c862803cda036122a441",
-  "sizeBytes": 72996836,
+  "versionName": "2.1.5-na-color",
+  "buildNumber": 15,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-color-15/PiliNara.apk",
+  "sha256": "732ec41f1eb81c06553310655160336372ab75ba1c9f7856607c81c281adbd35",
+  "sizeBytes": 73003268,
   "releaseNotes": [
-    "推荐页最上面加上 B站首页轮播，约 4 秒翻一张，可以左右滑。",
-    "点开视频后的页面换成新样式：关注按钮、操作按钮、相关推荐和评论；首页卡片更紧凑。",
-    "可在「设置 → 外观设置 → 新版界面」关闭。播放和提速没有改动。"
+    "整个 APP 统一成 B站配色：播放页、评论区、动态、搜索、设置和弹窗不再跟着手机壁纸带上颜色。",
+    "选中的标签和小按钮是浅粉底加粉字；「上次看到这里」改成白卡，气泡提示改成深灰。",
+    "新版界面下主题色设置不生效，关掉新版界面后照旧。播放和提速没有改动。"
   ]
 }
