@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-mine",
-  "buildNumber": 18,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-mine-18/PiliNara.apk",
-  "sha256": "9b72edca3f123f483920791e57a8190e78da2d947d3bfac4428f5236914d287a",
-  "sizeBytes": 73125516,
+  "versionName": "2.1.5-na-cache",
+  "buildNumber": 19,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-cache-19/PiliNara.apk",
+  "sha256": "0f5e85e5617dae3a49c8bed9fe374bce7dde1adfec9209f0fb2b9a0a1b5d1f23",
+  "sizeBytes": 73254084,
   "releaseNotes": [
-    "新的「我的」页：右上只留设置，其余放进带文字的列表；资料卡、常用入口和三排预览更整齐。",
-    "新版界面的字号、圆角、间距统一，视频页简介各块间距更匀称。",
-    "点赞、投币、收藏和切换标签时轻震一下，可在「其它设置 → 震动」关闭。播放和提速没有改动。"
+    "缓冲时长可选：设置 → 音视频设置，Wi-Fi 和移动网络分开，2/5/10/30 分钟或整个视频。",
+    "缓存存到手机存储，不占运行内存；暂停时继续缓冲，拖到已缓存处不用重新加载。",
+    "最近看的 2 个视频缓存保留 30 分钟；设置里可看占用、立即清理。仍不会自动降画质。"
   ]
 }
