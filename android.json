@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-icons",
-  "buildNumber": 17,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-icons-17/PiliNara.apk",
-  "sha256": "380986a1d1fb0aa38eb73b9e641566b60b0fd14d6a6cc3b419397cf0775863dd",
-  "sizeBytes": 73069856,
+  "versionName": "2.1.5-na-mine",
+  "buildNumber": 18,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-mine-18/PiliNara.apk",
+  "sha256": "9b72edca3f123f483920791e57a8190e78da2d947d3bfac4428f5236914d287a",
+  "sizeBytes": 73125516,
   "releaseNotes": [
-    "缓冲提示换成小玻璃胶囊：匀速细圈 + 「缓冲中」和网速，画面再亮再杂也看得清。",
-    "播放页图标统一成一套：圆角的播放暂停、硬币形状的投币、转发箭头的分享，点亮后填成粉色。",
-    "全屏电量改成小电池；未播放时的返回、主页对齐居中。播放和提速没有改动。"
+    "新的「我的」页：右上只留设置，其余放进带文字的列表；资料卡、常用入口和三排预览更整齐。",
+    "新版界面的字号、圆角、间距统一，视频页简介各块间距更匀称。",
+    "点赞、投币、收藏和切换标签时轻震一下，可在「其它设置 → 震动」关闭。播放和提速没有改动。"
   ]
 }
