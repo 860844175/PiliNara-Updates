@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-cache",
-  "buildNumber": 19,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-cache-19/PiliNara.apk",
-  "sha256": "0f5e85e5617dae3a49c8bed9fe374bce7dde1adfec9209f0fb2b9a0a1b5d1f23",
-  "sizeBytes": 73254084,
+  "versionName": "2.1.5-na-settings",
+  "buildNumber": 20,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-settings-20/PiliNara.apk",
+  "sha256": "739c03d50923ee64f28ab463ad04aea082b1c43baf09bb033163ed32f5d2a6b4",
+  "sizeBytes": 73337720,
   "releaseNotes": [
-    "缓冲时长可选：设置 → 音视频设置，Wi-Fi 和移动网络分开，2/5/10/30 分钟或整个视频。",
-    "缓存存到手机存储，不占运行内存；暂停时继续缓冲，拖到已缓存处不用重新加载。",
-    "最近看的 2 个视频缓存保留 30 分钟；设置里可看占用、立即清理。仍不会自动降画质。"
+    "设置改成分组卡片：首页分组 + 当前值一眼可见，子页按用途分组，设置项一个不少。",
+    "二级页标题栏统一：Lucide 返回箭头 + 靠左粗体标题。",
+    "相关推荐、热门和评论之间加了浅色分隔线，条与条的边界更清楚。"
   ]
 }
