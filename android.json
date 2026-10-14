@@ -3,14 +3,13 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-settings",
-  "buildNumber": 20,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-settings-20/PiliNara.apk",
-  "sha256": "739c03d50923ee64f28ab463ad04aea082b1c43baf09bb033163ed32f5d2a6b4",
-  "sizeBytes": 73337720,
+  "versionName": "2.1.5-na-ipad",
+  "buildNumber": 21,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-ipad-21/PiliNara.apk",
+  "sha256": "8623ed33c96f4d570cc366bd7c407d0621c8ec4eea5ddba38c714cd8b5e41a9b",
+  "sizeBytes": 73377128,
   "releaseNotes": [
-    "设置改成分组卡片：首页分组 + 当前值一眼可见，子页按用途分组，设置项一个不少。",
-    "二级页标题栏统一：Lucide 返回箭头 + 靠左粗体标题。",
-    "相关推荐、热门和评论之间加了浅色分隔线，条与条的边界更清楚。"
+    "点开视频直接播放：「自动播放」改为默认打开，手动关过的保持关闭。",
+    "安卓平板（窗口足够宽时）换成平板布局：底部小胶囊、轮播多张并排、视频页分栏。手机界面不变。"
   ]
 }

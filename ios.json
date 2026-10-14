@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "platform": "ios",
+  "channel": "northAmerica",
+  "packageId": "com.example.pilinara",
+  "versionName": "2.1.5-na-ipad",
+  "buildNumber": 21,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-ipad-21/PiliNara.ipa",
+  "sha256": "1ad3a2fab574859662872b020b2ff5b88e3ed0c647aca792103d1b6bfe852b6d",
+  "sizeBytes": 27147337,
+  "releaseNotes": [
+    "第一个 iPad / iPhone 侧载版：用 SideStore 安装，每 7 天在设备上续签。",
+    "iPad 布局：底部小胶囊导航、首页轮播横屏三张竖屏两张、视频页横屏左视频右推荐 / 评论、竖屏视频在上下面两栏。",
+    "点开视频直接播放。"
+  ]
+}

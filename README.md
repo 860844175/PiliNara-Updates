@@ -1,7 +1,7 @@
 # PiliNara 个人测试版更新信息
 
-这个公开仓库仅保存 Android 版本号、更新说明及安装包的校验信息。
-源码和 APK 保留在私有仓库。下载 APK 仍需要使用有权限的 GitHub 账号登录浏览器。
+这个公开仓库仅保存 Android（android.json）和 iPad / iPhone（ios.json）的版本号、更新说明及安装包的校验信息。
+源码、APK 和 IPA 保留在私有仓库。下载 APK 仍需要使用有权限的 GitHub 账号登录浏览器。
 不存放账号凭据、视频数据或签名密钥。
 
 App 在启动和回到首页时查询 android.json；自动检查间隔为 6 小时，手动检查不受此限制。
@@ -10,3 +10,5 @@ App 在启动和回到首页时查询 android.json；自动检查间隔为 6 小
 
 每次发布先上传、完整下载并核验私有 Release 附件，最后更新这里的 android.json。
 版本顺序以 buildNumber 为准，安装包始终沿用原应用 ID 和签名。
+
+iPad / iPhone 版用 SideStore 侧载：App 读取 ios.json，下载并核验 IPA 后通过系统分享面板交给 SideStore 覆盖安装。
