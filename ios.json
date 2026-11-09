@@ -3,14 +3,14 @@
   "platform": "ios",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara",
-  "versionName": "2.1.5-na-ipad",
-  "buildNumber": 21,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-ipad-21/PiliNara.ipa",
-  "sha256": "1ad3a2fab574859662872b020b2ff5b88e3ed0c647aca792103d1b6bfe852b6d",
-  "sizeBytes": 27147337,
+  "versionName": "2.1.5-na-buffer",
+  "buildNumber": 22,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-buffer-22/PiliNara.ipa",
+  "sha256": "d3d45e3a92a185da60d240da00136b2ebdb7501c766fa1553c2e4071276e6a9e",
+  "sizeBytes": 27149166,
   "releaseNotes": [
-    "第一个 iPad / iPhone 侧载版：用 SideStore 安装，每 7 天在设备上续签。",
-    "iPad 布局：底部小胶囊导航、首页轮播横屏三张竖屏两张、视频页横屏左视频右推荐 / 评论、竖屏视频在上下面两栏。",
-    "点开视频直接播放。"
+    "缓冲时长看得见了：进度条上的「已缓冲」和缓冲文字都算上存在手机里的部分，设 10 分钟就能看到约 10 分钟以上，不再只显示内存里的 2 分钟。",
+    "预读更不容易停：网络抖动后轮流换节点试，播放器一拿到数据预读很快接着下，断网重连后也马上恢复；偶尔读不到剩余空间时不再误删其它视频的缓存。",
+    "「缓冲时长」分 Wi-Fi 和移动网络两项；「播放诊断」会记下每次播放用的设置，例如「预读 Wi-Fi 10 分钟」。"
   ]
 }

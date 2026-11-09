@@ -3,13 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-ipad",
-  "buildNumber": 21,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-ipad-21/PiliNara.apk",
-  "sha256": "8623ed33c96f4d570cc366bd7c407d0621c8ec4eea5ddba38c714cd8b5e41a9b",
-  "sizeBytes": 73377128,
+  "versionName": "2.1.5-na-buffer",
+  "buildNumber": 22,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-buffer-22/PiliNara.apk",
+  "sha256": "e782a7f4c0765c251c9c4ad0a29fad159b773c2e681205847aaa076fd60b4dd0",
+  "sizeBytes": 73369052,
   "releaseNotes": [
-    "点开视频直接播放：「自动播放」改为默认打开，手动关过的保持关闭。",
-    "安卓平板（窗口足够宽时）换成平板布局：底部小胶囊、轮播多张并排、视频页分栏。手机界面不变。"
+    "缓冲时长看得见了：进度条上的「已缓冲」和缓冲文字都算上存在手机里的部分，设 10 分钟就能看到约 10 分钟以上，不再只显示内存里的 2 分钟。",
+    "预读更不容易停：网络抖动后轮流换节点试，播放器一拿到数据预读很快接着下，断网重连后也马上恢复；偶尔读不到剩余空间时不再误删其它视频的缓存。",
+    "「缓冲时长」分 Wi-Fi 和移动网络两项；「播放诊断」会记下每次播放用的设置，例如「预读 Wi-Fi 10 分钟」。"
   ]
 }
