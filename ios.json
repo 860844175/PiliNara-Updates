@@ -3,14 +3,13 @@
   "platform": "ios",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara",
-  "versionName": "2.1.5-na-buffer",
-  "buildNumber": 22,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-buffer-22/PiliNara.ipa",
-  "sha256": "d3d45e3a92a185da60d240da00136b2ebdb7501c766fa1553c2e4071276e6a9e",
-  "sizeBytes": 27149166,
+  "versionName": "2.1.5-na-instant",
+  "buildNumber": 23,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-instant-23/PiliNara.ipa",
+  "sha256": "d70a99572fdc1f176d78e03e5a776e0019d5cdf12c02d64e24e49367e6d630fb",
+  "sizeBytes": 27157021,
   "releaseNotes": [
-    "缓冲时长看得见了：进度条上的「已缓冲」和缓冲文字都算上存在手机里的部分，设 10 分钟就能看到约 10 分钟以上，不再只显示内存里的 2 分钟。",
-    "预读更不容易停：网络抖动后轮流换节点试，播放器一拿到数据预读很快接着下，断网重连后也马上恢复；偶尔读不到剩余空间时不再误删其它视频的缓存。",
-    "「缓冲时长」分 Wi-Fi 和移动网络两项；「播放诊断」会记下每次播放用的设置，例如「预读 Wi-Fi 10 分钟」。"
+    "点开更快：画面和声音的开头同时提前下载，打开 App、回到前台时先和服务器连好；模拟器上刚打开 App 的第一个视频从约 3–5 秒降到约 1.9 秒，连续点从约 1.2 秒降到 0.7 秒。",
+    "高能进度条默认打开（手动关过的保持关闭）。"
   ]
 }
