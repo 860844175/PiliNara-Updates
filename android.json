@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.1.5-na-instant",
-  "buildNumber": 23,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.1.5-na-instant-23/PiliNara.apk",
-  "sha256": "3442ac21d468ef74c98ebb6199201f374003461dfa0c3ce8d048987883fee6a5",
-  "sizeBytes": 73378800,
+  "versionName": "2.6.2-na-merge",
+  "buildNumber": 24,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-merge-24/PiliNara.apk",
+  "sha256": "bfb9cde5161cacf21bb4c3d199ed1570711006bc885082d4ce41e3689e922802",
+  "sizeBytes": 77406410,
   "releaseNotes": [
-    "点开更快：画面和声音的开头同时提前下载，打开 App、回到前台时先和服务器连好；模拟器上刚打开 App 的第一个视频从约 3–5 秒降到约 1.9 秒，连续点从约 1.2 秒降到 0.7 秒。",
-    "后台画中画默认打开：播放时回到桌面自动变成小窗（手动关过的保持关闭）。",
-    "高能进度条默认打开（手动关过的保持关闭）。"
+    "合并了原作者的 2.1.6 和 2.6.2：修了 Akamai 节点放不出来、同一个视频再打开黑屏、音量超过 100% 破音；评论楼中楼按对话展开；分 P / 合集面板重做；「我的」页可以选显示哪些卡片。",
+    "速度没有变慢：换节点、长缓冲、秒开全部保留；修了打开视频要先白等 5 秒（中转出问题后现在会自动重启，正在播的视频马上改直连）。",
+    "设置重新分页：弹幕、评论各有单独一页，找不到的设置可以用顶部搜索。"
   ]
 }
