@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-merge",
-  "buildNumber": 24,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-merge-24/PiliNara.apk",
-  "sha256": "bfb9cde5161cacf21bb4c3d199ed1570711006bc885082d4ce41e3689e922802",
-  "sizeBytes": 77406410,
+  "versionName": "2.6.2-na-autoplay",
+  "buildNumber": 25,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-autoplay-25/PiliNara.apk",
+  "sha256": "b9a165766885097e9a61c48d0de5cdeb270938dcf466bcaf227e94ec9fe5092b",
+  "sizeBytes": 77508254,
   "releaseNotes": [
-    "合并了原作者的 2.1.6 和 2.6.2：修了 Akamai 节点放不出来、同一个视频再打开黑屏、音量超过 100% 破音；评论楼中楼按对话展开；分 P / 合集面板重做；「我的」页可以选显示哪些卡片。",
-    "速度没有变慢：换节点、长缓冲、秒开全部保留；修了打开视频要先白等 5 秒（中转出问题后现在会自动重启，正在播的视频马上改直连）。",
-    "设置重新分页：弹幕、评论各有单独一页，找不到的设置可以用顶部搜索。"
+    "看完视频后有结束页：重播、接下来要播的和相关推荐；自动连播时有 5 秒倒计时，可以取消，全屏不会退出。「播放顺序」默认改为自动连播（改过的保持不变）。",
+    "倒计时期间提前取好下一个视频的播放地址，点开更快。",
+    "首页刷新后「上次看到这里」改成一条细线，原来那一屏不重新排。"
   ]
 }
