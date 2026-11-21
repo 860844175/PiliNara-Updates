@@ -3,14 +3,13 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-feed",
-  "buildNumber": 26,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-feed-26/PiliNara.apk",
-  "sha256": "2629f0968dbbecf2c15214189f744b333655f92f56b116ed52a7207d8c891149",
-  "sizeBytes": 77513650,
+  "versionName": "2.6.2-na-bigvideo",
+  "buildNumber": 27,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-bigvideo-27/PiliNara.apk",
+  "sha256": "4b15e66e90426811134b611bd3911415cc10f39bf62ef29b42fb84454217828c",
+  "sizeBytes": 77478222,
   "releaseNotes": [
-    "首页刷新后每一屏都是「大 + 小」：最上面是新的轮播和新视频，「上次看到这里」下面是刷新前那一屏原来的轮播和视频，一个都不重新排。",
-    "刷新后线上面最后一行没排满时，在后台向 B 站多要一批推荐补满，刷新不会变慢；剩下的在加载更多时最先出来。",
-    "iPad 底栏的图标和字上下居中。"
+    "首页最上面那排大的换成推荐视频（手机 1 个，iPad 横屏 3 个、竖屏 2 个），每次刷新都换；不再显示 B 站的活动推广轮播。",
+    "每一屏还是「大 + 小」：「上次看到这里」下面是刷新前那一屏当时的大视频和小视频。"
   ]
 }
