@@ -3,14 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-autoplay",
-  "buildNumber": 25,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-autoplay-25/PiliNara.apk",
-  "sha256": "b9a165766885097e9a61c48d0de5cdeb270938dcf466bcaf227e94ec9fe5092b",
-  "sizeBytes": 77508254,
+  "versionName": "2.6.2-na-feed",
+  "buildNumber": 26,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-feed-26/PiliNara.apk",
+  "sha256": "2629f0968dbbecf2c15214189f744b333655f92f56b116ed52a7207d8c891149",
+  "sizeBytes": 77513650,
   "releaseNotes": [
-    "看完视频后有结束页：重播、接下来要播的和相关推荐；自动连播时有 5 秒倒计时，可以取消，全屏不会退出。「播放顺序」默认改为自动连播（改过的保持不变）。",
-    "倒计时期间提前取好下一个视频的播放地址，点开更快。",
-    "首页刷新后「上次看到这里」改成一条细线，原来那一屏不重新排。"
+    "首页刷新后每一屏都是「大 + 小」：最上面是新的轮播和新视频，「上次看到这里」下面是刷新前那一屏原来的轮播和视频，一个都不重新排。",
+    "刷新后线上面最后一行没排满时，在后台向 B 站多要一批推荐补满，刷新不会变慢；剩下的在加载更多时最先出来。",
+    "iPad 底栏的图标和字上下居中。"
   ]
 }
