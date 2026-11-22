@@ -3,14 +3,13 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-preload",
-  "buildNumber": 28,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-preload-28/PiliNara.apk",
-  "sha256": "11304ff0f8144ebd1cd4748bd3e05c1bd866a19102e57c879ec2324ec277b3fb",
-  "sizeBytes": 77529014,
+  "versionName": "2.6.2-na-badge",
+  "buildNumber": 29,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-badge-29/PiliNara.apk",
+  "sha256": "416a7abf7209391056ce89e4e03d48b2e2d7b8dc2effc701f996e9cdabfbacd6",
+  "sizeBytes": 77528854,
   "releaseNotes": [
-    "点开就播：Wi-Fi 下提前取好最可能点开的视频的播放地址和开头 4 秒，模拟器上出画面从 0.7–3.1 秒降到 0.4–0.5 秒；有限速，B 站提示请求太多时自动停下。",
-    "Wi-Fi 下默认把整个视频下到手机里，同时下载 6 块，播到一半不再等。",
-    "修了「中转」偶尔出错退出、那次起播要多等两三秒的问题。"
+    "iPad 底栏的动态数字不再压住「动态」两个字：数字改放在字后面（「动态 12」）。",
+    "手机上看不出变化，数字照旧挂在图标角上。"
   ]
 }
