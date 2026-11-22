@@ -3,13 +3,14 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-bigvideo",
-  "buildNumber": 27,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-bigvideo-27/PiliNara.apk",
-  "sha256": "4b15e66e90426811134b611bd3911415cc10f39bf62ef29b42fb84454217828c",
-  "sizeBytes": 77478222,
+  "versionName": "2.6.2-na-preload",
+  "buildNumber": 28,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-preload-28/PiliNara.apk",
+  "sha256": "11304ff0f8144ebd1cd4748bd3e05c1bd866a19102e57c879ec2324ec277b3fb",
+  "sizeBytes": 77529014,
   "releaseNotes": [
-    "首页最上面那排大的换成推荐视频（手机 1 个，iPad 横屏 3 个、竖屏 2 个），每次刷新都换；不再显示 B 站的活动推广轮播。",
-    "每一屏还是「大 + 小」：「上次看到这里」下面是刷新前那一屏当时的大视频和小视频。"
+    "点开就播：Wi-Fi 下提前取好最可能点开的视频的播放地址和开头 4 秒，模拟器上出画面从 0.7–3.1 秒降到 0.4–0.5 秒；有限速，B 站提示请求太多时自动停下。",
+    "Wi-Fi 下默认把整个视频下到手机里，同时下载 6 块，播到一半不再等。",
+    "修了「中转」偶尔出错退出、那次起播要多等两三秒的问题。"
   ]
 }
