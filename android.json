@@ -3,14 +3,13 @@
   "platform": "android",
   "channel": "northAmerica",
   "packageId": "com.example.pilinara.dev",
-  "versionName": "2.6.2-na-multicdn",
-  "buildNumber": 30,
-  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-multicdn-30/PiliNara.apk",
-  "sha256": "8d00c9fd4ce5047048443ad34770e4b2983b4cc7666b2bde2cdbc75d3c4d8220",
-  "sizeBytes": 77557578,
+  "versionName": "2.6.2-na-fastest",
+  "buildNumber": 31,
+  "downloadUrl": "https://github.com/860844175/PiliNara-NorthAmerica/releases/download/v2.6.2-na-fastest-31/PiliNara.apk",
+  "sha256": "4d0385a1df5eb8116a8a75d087a544405cafd558c7e203becb1f3aa71ee83c3b",
+  "sizeBytes": 77536674,
   "releaseNotes": [
-    "多个节点一起下：同时从排名前三的节点下载，不再只靠一个；冷门视频实测比原来快 1.2–1.85 倍。",
-    "慢节点让路：正在等的那一块下得太慢，就交给快的节点接着下，慢节点暂时不再用。",
-    "弹幕设置好找了：底栏「弹」旁边加了按钮，「更多」里也挪到了最上面。"
+    "修 30 版开播偶尔很慢：慢的块直接交给测出来最快的节点，不再一个个往下试。",
+    "按实测速度分块：新块只给够快的节点；冷门视频开头到手从 7–10 秒降到 2–4 秒（实测）。"
   ]
 }
